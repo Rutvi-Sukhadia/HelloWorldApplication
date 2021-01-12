@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
     public void showText(View view)
     {
         TextView txt = findViewById(R.id.txtbox);
-        txt.setText("\"Hello \n World\"");
+        txt.setText("\"Hello World\"");
     }
 
 }
