@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World Application</string>
+    <string name="header">Welcome To Our Application</string>
+    <string name="img_button">Show Image</string>
+    <string name="text_button">Show Text</string>
+
+</resources>
